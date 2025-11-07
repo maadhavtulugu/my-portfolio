@@ -1,4 +1,4 @@
-import myPic from "../assets/madhav1.jpg";
+import myPic from "../assets/madhav1.jpeg";
 
 export default function Hero() {
   return (

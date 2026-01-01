@@ -16,7 +16,7 @@ export default function Hero() {
           href="#portfolio"
           className="inline-block px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition font-medium"
         >
-          See My Lastest Work
+          See My Work
         </a>
       </div>
 

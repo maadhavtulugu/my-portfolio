@@ -60,7 +60,7 @@ export default function Header({ darkMode, setDarkMode }) {
             Testimonials
           </a>
           <a href="#contact" className="hover:text-blue-600 dark:hover:text-blue-400 transition">
-            Contact
+            Contact Me
           </a>
         </nav>
       )}
